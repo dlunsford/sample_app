@@ -1,4 +1,4 @@
-== Welcome to Rails
+== Ruby on Rails Tutorial: sample application
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
@@ -38,8 +38,7 @@ link:files/vendor/rails/actionpack/README.html.
        "Welcome aboard: You're riding Ruby on Rails!"
 
 4. Follow the guidelines to start developing your application. You can find
-the following resources handy:
-
+the fol
 * The Getting Started Guide: http://guides.rubyonrails.org/getting_started.html
 * Ruby on Rails Tutorial Book: http://www.railstutorial.org/
 
